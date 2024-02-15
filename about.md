@@ -4,7 +4,7 @@ permalink: /ABOUT/
 
 # About
 
-This is a GitHub Page template on GitHub.
+Hello! This is a GitHub Page template on GitHub.
 Fill free to clone/fork/hijack/whatever it!
 
 <br>

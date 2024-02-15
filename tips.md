@@ -5,7 +5,7 @@ permalink: /TIPS/
 # TIPS
 
 4. [Four](https://en.wikipedia.org/wiki/4)<br>
-Powder donut cheesecake wafer.
+Wonderhoy! Powder donut cheesecake wafer.
 I love sugar plum brownie tart apple pie macaroon.
 Donut wafer dragée pudding.
 
